@@ -1,0 +1,20 @@
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\blacktILE.xnb
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\redTile.xnb
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tileChar.xnb
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\yellowTile.xnb
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+c:\users\dancom\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\blackTile.xnb
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\redTile.xnb
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tileChar.xnb
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\yellowTile.xnb
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\dancom\Desktop\xna-angrychef\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
